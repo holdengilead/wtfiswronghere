@@ -1,0 +1,1 @@
+The method needs to be static.
