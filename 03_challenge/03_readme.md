@@ -1,0 +1,1 @@
+The argument to the functions must be an integer.
